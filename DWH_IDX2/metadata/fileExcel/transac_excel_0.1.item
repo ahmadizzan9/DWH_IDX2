@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:FileExcelConnection xmi:id="_s2X3ABKQEfC59-CZ0pU2NA" name="transac_excel" dataPackage="_s2bhYBKQEfC59-CZ0pU2NA" Server="Localhost 127.0.0.1" FilePath="D:/#Important stuff/IDX/FINAL TASK/transaction_excel.xlsx" Encoding="UTF-8" UseHeader="true" HeaderValue="1" FirstLineCaption="true" SheetName="Sheet1" firstColumn="1" thousandSeparator="','" decimalSeparator="'.'" selectAllSheets="true" sheetList="Sheet1:w&#xA;">
+    <sheetColumns>A</sheetColumns>
+    <sheetColumns>B</sheetColumns>
+    <sheetColumns>C</sheetColumns>
+    <sheetColumns>D</sheetColumns>
+    <sheetColumns>E</sheetColumns>
+    <sheetColumns>F</sheetColumns>
+  </TalendMetadata:FileExcelConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_s2bhYBKQEfC59-CZ0pU2NA" name="default" dataManager="_s2X3ABKQEfC59-CZ0pU2NA">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_s2bhYRKQEfC59-CZ0pU2NA" id="_1ElggBKOEfC59-CZ0pU2NA" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_s2bhYhKQEfC59-CZ0pU2NA" label="transaction_id" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_s2bhYxKQEfC59-CZ0pU2NA" label="account_id" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_s2bhZBKQEfC59-CZ0pU2NA" label="transaction_date" length="-1" talendType="id_Date" pattern="&quot;dd-MM-yyyy HH:mm:ss&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_s2bhZRKQEfC59-CZ0pU2NA" label="amount" length="7" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_s2bhZhKQEfC59-CZ0pU2NA" label="transaction_type" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_s2bhZxKQEfC59-CZ0pU2NA" label="branch_id" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_Hrp7kRKKEfC59-CZ0pU2NA" label="DWH_IDX2" language="java" technicalLabel="DWH_IDX2" author="_HrqioBKKEfC59-CZ0pU2NA" productVersion="Talend Cloud Data Management Platform-8.0.1.20250319_1318-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/ahmadizzan9/DWH_IDX2.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_Hs54wBKKEfC59-CZ0pU2NA" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_HrqioBKKEfC59-CZ0pU2NA" login="ahmadizan2003@trial00430.sg.talend.com" firstName="ahmad" lastName="izzan" type="DQ"/>
+</xmi:XMI>
