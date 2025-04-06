@@ -1,1 +1,47 @@
-[ ]
+[ {
+  "baseItem" : {
+    "id" : "_t3v_ABKREfC59-CZ0pU2NA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_51mtkBKQEfC59-CZ0pU2NA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_ADsngBKREfC59-CZ0pU2NA",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_xjbmkBKREfC59-CZ0pU2NA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_4oKqEBKQEfC59-CZ0pU2NA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_51mtkBKQEfC59-CZ0pU2NA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_ADsngBKREfC59-CZ0pU2NA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_s2KboBKQEfC59-CZ0pU2NA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_4oKqEBKQEfC59-CZ0pU2NA - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_s2KboBKQEfC59-CZ0pU2NA - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
